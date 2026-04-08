@@ -1,3 +1,8 @@
+#no negotiation
+tiktok.com
+*.tiktok.com
+
+#ChatGPT says these are noisy and safe to block
 newrelic.com
 quantummetric.com
 contentsquare.net
