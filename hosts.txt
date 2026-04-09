@@ -1,31 +1,30 @@
-#no negotiation
-tiktok.com
+# no negotiation
 *.tiktok.com
 
-#ChatGPT says these are noisy and safe to block
-newrelic.com
-quantummetric.com
-contentsquare.net
-fullstory.com
-optimizely.com
-dynatrace.com
-app-analytics-services.com
-doubleclick.net
-googleadservices.com
-adsrvr.org
-rubiconproject.com
-taboola.com
-outbrain.com
-scorecardresearch.com
-demdex.net
-everesttech.net
-tapad.com
-blueconic.net
-medallia.com
-qualtrics.com
-bazaarvoice.com
-yotpo.com
-conviva.com
-onetrust.io
-cookielaw.org
-cookiebot.com
+# analytics/tracking, all subdomains
+*.newrelic.com
+*.quantummetric.com
+*.contentsquare.net
+*.fullstory.com
+*.optimizely.com
+*.dynatrace.com
+*.app-analytics-services.com
+*.doubleclick.net
+*.googleadservices.com
+*.adsrvr.org
+*.rubiconproject.com
+*.taboola.com
+*.outbrain.com
+*.scorecardresearch.com
+*.demdex.net
+*.everesttech.net
+*.tapad.com
+*.blueconic.net
+*.medallia.com
+*.qualtrics.com
+*.bazaarvoice.com
+*.yotpo.com
+*.conviva.com
+*.onetrust.io
+*.cookielaw.org
+*.cookiebot.com
