@@ -28,3 +28,15 @@
 *.onetrust.io
 *.cookielaw.org
 *.cookiebot.com
+
+# Conservative additions – safe for social media & streaming
+*.segment.io          # analytics pipeline, does not serve content
+*.heap.io             # analytics tracking
+*.mixpanel.com         # event analytics
+*.intercom.io          # user engagement tracking
+*.hotjar.com           # UX/heatmap analytics
+*.pardot.com           # marketing/analytics
+*.amplitude.com        # product analytics
+*.sentry.io            # error tracking, not content
+*.pingdom.com          # monitoring
+*.matomo.org           # web analytics
