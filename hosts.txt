@@ -95,3 +95,5 @@ tpc.googlesyndication.com
 # TESTING
 app-analytics-v2.snapchat.com
 *.app-analytics-v2.snapchat.com
+iadsdk.apple.com
+*.iadsdk.apple.com
