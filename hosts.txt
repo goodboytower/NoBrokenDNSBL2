@@ -40,3 +40,6 @@
 *.sentry.io            # error tracking, not content
 *.pingdom.com          # monitoring
 *.matomo.org           # web analytics
+
+#TESTING
+app-analytics-v2.snapchat.com
