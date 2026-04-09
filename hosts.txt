@@ -82,6 +82,16 @@ pingdom.com
 matomo.org
 *.matomo.org
 
+# Analytics / telemetry safe for social media & streaming
+app-analytics-v2.snapchat.com
+*.app-analytics-v2.snapchat.com
+www.google-analytics.com
+*.www.google-analytics.com
+www.googletagservices.com
+*.www.googletagservices.com
+tpc.googlesyndication.com
+*.tpc.googlesyndication.com
+
 # TESTING
 app-analytics-v2.snapchat.com
 *.app-analytics-v2.snapchat.com
