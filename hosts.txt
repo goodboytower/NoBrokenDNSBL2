@@ -85,15 +85,231 @@ matomo.org
 # Analytics / telemetry safe for social media & streaming
 app-analytics-v2.snapchat.com
 *.app-analytics-v2.snapchat.com
-www.google-analytics.com
-*.www.google-analytics.com
+google-analytics.com
+*.google-analytics.com
 www.googletagservices.com
 *.www.googletagservices.com
 tpc.googlesyndication.com
 *.tpc.googlesyndication.com
 
 # TESTING
-app-analytics-v2.snapchat.com
-*.app-analytics-v2.snapchat.com
 iadsdk.apple.com
 *.iadsdk.apple.com
+branch.io
+*.branch.io
+adjust.com
+*.adjust.com
+kochava.com
+*.kochava.com
+appsflyer.com
+*.appsflyer.com
+tenjin.io
+*.tenjin.io
+iad.apple.com
+*.iad.apple.com
+
+# Microsoft tracking
+clarity.ms
+*.clarity.ms
+
+# LinkedIn tracking
+licdn.com
+*.licdn.com
+linkedin.com
+*.linkedin.com
+
+# Facebook tracking (ONLY if you want aggressive blocking)
+connect.facebook.net
+*.connect.facebook.net
+facebook.com
+*.facebook.com
+
+# =================================
+# Provided from already-blocked domains, analyzed by chatgpt to not break social media or streaming
+# =================================
+
+# Roku / TV telemetry (safe)
+logs.roku.com
+*.logs.roku.com
+
+# Amazon telemetry (safe, non-breaking)
+a2z.com
+*.a2z.com
+
+# Adobe tracking (safe)
+adobedtm.com
+*.adobedtm.com
+
+# Bing ads/tracking only (safe subset)
+bat.bing.com
+*.bat.bing.com
+
+# Pinterest tracking (safe)
+pinterest.com
+*.pinterest.com
+
+# Hulu ad/telemetry endpoints (safe)
+fwmrm.net
+*.fwmrm.net
+
+# DoubleVerify (ad verification, safe)
+doubleverify.com
+*.doubleverify.com
+
+# Innovid (ad platform)
+innovid.com
+*.innovid.com
+
+# Klaviyo tracking
+klaviyo.com
+*.klaviyo.com
+
+# Tealium tracking
+tealiumiq.com
+*.tealiumiq.com
+
+# Treasure Data CDP
+treasuredata.com
+*.treasuredata.com
+
+# iSpot.tv (ad measurement)
+ispot.tv
+*.ispot.tv
+
+# VideoAmp (ad analytics)
+videoamp.com
+*.videoamp.com
+
+# Flashtalking (ads)
+flashtalking.com
+*.flashtalking.com
+
+# Liftoff (mobile ads)
+liftoff.io
+*.liftoff.io
+
+# Kayzen (mobile ads)
+kayzen.io
+*.kayzen.io
+
+# Singular (mobile attribution)
+singular.net
+*.singular.net
+
+# AppsFlyer alt domain (you didn’t include this variant)
+adjust.net.in
+*.adjust.net.in
+
+# PerimeterX / HUMAN security tracking
+px-cloud.net
+*.px-cloud.net
+perimeterx.net
+*.perimeterx.net
+
+# Forter (fraud/behavior tracking - safe to block for most)
+forter.com
+*.forter.com
+
+# BlueKai / Oracle ads
+bkrtx.com
+*.bkrtx.com
+
+# Criteo (ads)
+criteo.com
+*.criteo.com
+
+# OpenX (ads)
+openx.net
+*.openx.net
+
+# PubMatic (ads)
+pubmatic.com
+*.pubmatic.com
+
+# Sharethrough (ads)
+sharethrough.com
+*.sharethrough.com
+
+# Teads (ads)
+teads.tv
+*.teads.tv
+
+# Eyeota (data broker)
+eyeota.net
+*.eyeota.net
+
+# Sojern (ads/travel tracking)
+sojern.com
+*.sojern.com
+
+# Yandex ads
+yandexadexchange.net
+*.yandexadexchange.net
+
+# Northbeam (marketing attribution)
+northbeam.io
+*.northbeam.io
+
+# Statsig (product analytics)
+statsig.com
+*.statsig.com
+
+# GameAnalytics (mobile analytics)
+gameanalytics.com
+*.gameanalytics.com
+
+# Radar.io (location tracking SDK)
+radar.io
+*.radar.io
+
+# Braze (engagement tracking)
+braze.com
+*.braze.com
+
+# Attentive (SMS marketing)
+attentivemobile.com
+*.attentivemobile.com
+
+# Monetate / Dynamic Yield (personalization)
+monetate.net
+*.monetate.net
+dynamicyield.com
+*.dynamicyield.com
+
+# Quantserve (tracking)
+quantserve.com
+*.quantserve.com
+
+# RLCDN / LiveRamp (identity tracking)
+rlcdn.com
+*.rlcdn.com
+
+# Casale Media (ads)
+casalemedia.com
+*.casalemedia.com
+
+# MediaMath / AdTech
+sitescout.com
+*.sitescout.com
+
+# AdKernel / data syncing
+adentifi.com
+*.adentifi.com
+
+# Misc shady / low-reputation domains (safe to nuke)
+imtwjwoasak.com
+*.imtwjwoasak.com
+g10102301085.co
+*.g10102301085.co
+livesozy.com
+*.livesozy.com
+securedvisit.com
+*.securedvisit.com
+dewrain.life
+*.dewrain.life
+dewrain.site
+*.dewrain.site
+akisinn.info
+*.akisinn.info
+vaicore.site
+*.vaicore.site
