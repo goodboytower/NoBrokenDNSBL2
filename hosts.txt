@@ -1,7 +1,5 @@
-# no negotiation
 tiktok.com
 
-#cant get these to block wildcard subdomain
 mobile-collector.newrelic.com
 ad.doubleclick.net
 googleadservices.com
