@@ -2,6 +2,15 @@
 tiktok.com
 *.tiktok.com
 
+#cant get these to block wildcard subdomain
+mobile-collector.newrelic.com
+ad.doubleclick.net
+googleadservices.com
+dpm.demdex.net
+www.googletagmanager.com
+www.google-analytics.com
+insight.adsrvr.org
+
 # analytics/tracking, all subdomains
 newrelic.com
 *.newrelic.com
